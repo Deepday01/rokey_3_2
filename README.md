@@ -4,9 +4,9 @@
 https://teamsparkx.notion.site/272563918e59802d8748e8b776d6f94a
 
 ## 깃헙 아이디, 메일
-김윤재 : BasicToMaster / yjk1164@gmail.com
-김동국 : KDG0409 / korvic6310@gmail.com 
-문홍일 : Deepday01 / mhi1248@naver.com
+김윤재 : BasicToMaster / yjk1164@gmail.com  
+김동국 : KDG0409 / korvic6310@gmail.com  
+문홍일 : Deepday01 / mhi1248@naver.com  
 
 ## 스터디 요약
 
