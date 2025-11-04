@@ -3,6 +3,9 @@
 ## 스터디 공지
 https://teamsparkx.notion.site/272563918e59802d8748e8b776d6f94a
 
+## 보고서 제출
+https://drive.google.com/drive/folders/1IQhi2svdntElpOHskxp0Ng7KO91RuHKh
+
 ## 깃헙 아이디, 메일
 김윤재 : BasicToMaster / yjk1164@gmail.com  
 김동국 : KDG0409 / korvic6310@gmail.com  
