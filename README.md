@@ -22,7 +22,7 @@ https://drive.google.com/drive/folders/1IQhi2svdntElpOHskxp0Ng7KO91RuHKh
 ### 3주차
 프로젝트 주제 공유
 
-팀장 : 김동국
+## 팀장 : 김동국
 ### 4주차
 시험 공부
 
@@ -32,7 +32,7 @@ https://drive.google.com/drive/folders/1IQhi2svdntElpOHskxp0Ng7KO91RuHKh
 ### 6주차
 각자 준비한 프로젝트 초안 공유 및 설명
 
-팀장 : 문홍일
+## 팀장 : 문홍일
 ### 7주차 
 카페 프로젝트 구체화 하기
 
